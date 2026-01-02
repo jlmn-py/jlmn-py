@@ -14,7 +14,9 @@ style="background-color: #e5e7eb; width: 28%; font-size: small;">
 #### JOSE LUIS MORALEDA NAVAMUEL
 
 #### CONTACTO
-<img src="foto.jpg" style="display: flex; margin: auto; float: right; padding-top: 5px; border-radius: 150px; width: 150px;"/>
+
+<img align="right" src="foto.jpg" width="150" style="border-radius: 50%;">
+
 📧: jmoraledanavamuel@gmail.com
 
 📱: XXXXXXXXX
