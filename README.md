@@ -29,7 +29,7 @@ style="background-color: #e5e7eb; width: 28%; font-size: small;">
 | filtration TFF/NF                | 🟢-🟢-🟢   |
 | chromatography                   | 🟢-🟢-🟢   |
 | pilot plant                      | 🟢-🟢      |
-| organic chemistry                | 🟢-🟢-🟢   |
+| organic chemistry & synthesis                | 🟢-🟢-🟢   |
 | DoE                              | 🟢-🟢-🟢   |
 | titration metrohm                | 🟢-🟢      |
 | isolation process + freeze dryer | 🟢-🟢-🟢   |
@@ -62,12 +62,9 @@ style="background-color: white; width: 67%; font-size: small;">
 
 ## 🥼 PERFIL
 
-Técnico de investigación multidisciplinar con más de 20 años
-experiencia. Durante este periodo he desarollado el diseño, ejecución,
-análisis de datos, conclusiones e informe final de proyectos a escala
-laboratorio y piloto.
+Multidisciplinary research technician with over 20 years of experience. During this period, I have developed the design, execution, data analysis, conclusions, and final report of laboratory and pilot-scale projects.
 
-## 💼 EXPERIENCIA PROFESIONAL
+## 💼 PROFESSIONAL EXPERIENCE
 
 |                               |                        |                    |
 |-------------------------------|------------------------|--------------------|
@@ -75,7 +72,7 @@ laboratorio y piloto.
 | DPTO. I+D, JUSTESA IMAGEN     | 📅 ENE/04 ~ JUL/05     | AUX. INVESTIGACIÓN |
 | DPTO. SÍNTESIS ORGÁNICA, UNED | 📅 OCT/02 ~ DIC/03     | AUX. INVESTIGACIÓN |
 
-## 🎓 DATOS ACADÉMICOS
+## 🎓 ACADEMIC DATA
 
 |                                       |           |      |
 |---------------------------------------|-----------|------|
@@ -83,7 +80,7 @@ laboratorio y piloto.
 | DIPLOMA DE ESTUDIOS AVANZADAS[^3]     | 📅 JUN/11 | UAH  |
 | LICENCIATURA EN CIENCIAS QUÍMICAS[^4] | 📅 JUN/03 | UNED |
 
-## 📋 ÚLTIMOS CURSOS
+## 📋 LAST COURSES
 
 |                                                       |         |
 |-------------------------------------------------------|:-------:|
@@ -103,18 +100,22 @@ laboratorio y piloto.
 
 > [!TIP]
 >
-> **EXPERIENCIA EN GESTIÓN Y DOCUMENTACIÓN**
+> **EXPERIENCE IN MANAGEMENT AND DOCUMENTATION**
 >
-> - PROYECTOS E INFORMES DE ACTIVIDADES ANALÍTICAS Y DE DESARROLLO
->   (PAD/IAD).
+> - PROJECTS AND REPORTS OF ANALYTICAL AND DEVELOPMENT ACTIVITIES
+> (PAD/IAD).
+
 >
-> - VALIDACIÓN MÉTODOS ANALÍTICOS.
+> - VALIDATION OF ANALYTICAL METHODS.
+
 >
-> - ELABORACIÓN Y SEGUIMIENTO DE DOCUMENTACIÓN, CoA, PNT, MA…
+> - PREPARATION AND MONITORING OF DOCUMENTATION, CoA, SOPs, MA…
+
 >
-> - AIQ-PLAN/INFORME, EVALUACIÓN DE RIESGOS, FICHA DE EQUIPOS ChC, URS…
+> - AIQ-PLAN/REPORT, RISK ASSESSMENT, ChC EQUIPMENT DATA SHEET, URS…
+
 >
-> - FORMACIÓN EN GMP, GLP, FE, USP, CFR21…
+> - TRAINING IN GMP, GLP, FE, USP, CFR21…
 
 </div>
 
