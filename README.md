@@ -13,7 +13,7 @@ style="background-color: #e5e7eb; width: 28%; font-size: small;">
 
 #### JOSE LUIS MORALEDA NAVAMUEL
 
-#### CONTACTO
+#### CONTACT
 
 <img align="right" src="foto.jpg" width="150" style="border-radius: 50%;">
 
@@ -60,7 +60,7 @@ SOFTWARE EXPERIENCE
 <div class="column"
 style="background-color: white; width: 67%; font-size: small;">
 
-## 🥼 PERFIL
+## 🥼 PROFILE
 
 Multidisciplinary research technician with over 20 years of experience. During this period, I have developed the design, execution, data analysis, conclusions, and final report of laboratory and pilot-scale projects.
 
