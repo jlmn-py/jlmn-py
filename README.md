@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Bio"
 author: "jlmn"
 format: html
 ---
